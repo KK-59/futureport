@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/futureport/static/css/main.073c9b0a.css",
-    "main.js": "/futureport/static/js/main.bd84d56d.js",
-    "static/js/787.28cb0dcd.chunk.js": "/futureport/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/futureport/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/futureport/static/css/main.73e9bf3a.css",
+    "main.js": "/futureport/static/js/main.5a12b8dd.js",
+    "static/media/Tajawal-Light.ttf": "/futureport/static/media/Tajawal-Light.0b9c23dd8afee3e6ab60.ttf",
     "index.html": "/futureport/index.html",
-    "main.073c9b0a.css.map": "/futureport/static/css/main.073c9b0a.css.map",
-    "main.bd84d56d.js.map": "/futureport/static/js/main.bd84d56d.js.map",
-    "787.28cb0dcd.chunk.js.map": "/futureport/static/js/787.28cb0dcd.chunk.js.map"
+    "main.73e9bf3a.css.map": "/futureport/static/css/main.73e9bf3a.css.map",
+    "main.5a12b8dd.js.map": "/futureport/static/js/main.5a12b8dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.bd84d56d.js"
+    "static/css/main.73e9bf3a.css",
+    "static/js/main.5a12b8dd.js"
   ]
 }
